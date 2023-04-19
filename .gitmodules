@@ -1,0 +1,3 @@
+[submodule "wit/wasi-http"]
+	path = wit/wasi-http
+	url = https://github.com/WebAssembly/wasi-http

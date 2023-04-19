@@ -1,0 +1,3 @@
+default world wasi-http-handler {
+    export handler: wasi-http.incoming-handler
+}
